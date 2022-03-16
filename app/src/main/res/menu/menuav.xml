@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/login"
+        android:icon="@drawable/ic_login"
+        android:title="Log-in/Sign-up"
+        app:showAsAction="never">
+    </item>
+    <item
+        android:title="Share"
+        android:id="@+id/share"
+        android:icon="@drawable/ic_share"
+        app:showAsAction="never">
+        <menu>
+            <item
+                android:id="@+id/gmail"
+                android:title="Gmail"
+                android:icon="@drawable/ic_mail" />
+            <item
+                android:id="@+id/bluetooth"
+                android:title="Bluetooth"
+                android:icon="@drawable/ic_bluetooth"/>
+        </menu>
+    </item>
+</menu>
