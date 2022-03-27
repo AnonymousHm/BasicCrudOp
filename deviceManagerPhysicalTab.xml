@@ -1,0 +1,17 @@
+<application>
+  <component name="deviceManagerPhysicalTab">
+    <physicalDevices>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="DOMAIN_NAME" />
+            <value value="adb-EIBAHIFUKR4XTCUS-BoDhTW._adb-tls-connect._tcp" />
+          </Key>
+        </key>
+        <name value="realme RMX3197" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+    </physicalDevices>
+  </component>
+</application>
