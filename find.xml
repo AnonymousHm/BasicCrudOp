@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'OptionMenu'" />
-    <option name="defaultScopeName" value="Project 'OptionMenu'" />
-    <option name="SEARCH_SCOPE" value="Project 'OptionMenu'" />
+    <option name="customScope" value="Directory '... [BasicCrudOp]'" />
+    <option name="defaultScopeName" value="Directory '... [BasicCrudOp]'" />
+    <option name="SEARCH_SCOPE" value="Directory '... [BasicCrudOp]'" />
   </component>
 </application>
